@@ -4,7 +4,7 @@
 
 🧑‍💻 Software Engineer passionate about AI‑driven web experiences
 
-Personal Portfolio : (https://anurupreddy-potfolio.framer.website)
+Personal Portfolio : [AnurupReddy-Portfolio](https://anurupreddy-potfolio.framer.website)
 
 
 
