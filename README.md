@@ -4,6 +4,9 @@
 
 🧑‍💻 Software Engineer passionate about AI‑driven web experiences
 
+Personal Portfolio : (https://anurupreddy-potfolio.framer.website)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/reddii__anurup__?r=nametag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurupreddy127/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koduruanurupreddy5@gmail.com) 
