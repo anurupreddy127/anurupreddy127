@@ -1,4 +1,4 @@
-##Hi there! I’m Anurup Reddy Koduru 
+## Hi there! I’m Anurup Reddy Koduru 
 
 🎓 Master’s Student, Computer Science @ University of North Texas
 
